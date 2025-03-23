@@ -1,11 +1,12 @@
 name: content_based_filtering
 channels:
   - defaults
+  - conda-forge
  
 dependencies:
   - numpy
   - pandas
-  - tabulate
   - scikit-learn
   - tensorflow
   - jupyterlab
+  - matplotlib

@@ -1,0 +1,2 @@
+# Not what I wanted to do
+The idea of this project was different from the result. I wanted to implement a bigger model, with a higher complexity however it turn out to be harder than what I first thought. So I dropout here, with a little neural network.
